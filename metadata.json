@@ -1,0 +1,6 @@
+{
+  "name": "Field Sales CRM & Auto Dialer",
+  "description": "Comprehensive Field Sales CRM with Auto Dialer simulation, Lead Management, Attendance & Break tracking, File distribution, and Admin Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
